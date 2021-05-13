@@ -6,7 +6,7 @@ Neste projeto de portfólio de ciência de dados utilizei um dataset disponível
 
 Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um modelo de machine learning foi selecionado (rede neural) dentre vários para prever employee attrition (utilizando o Scikit-learn e o Keras), o qual poderá auxiliar na criação de categorias de risco com base na probabilidade de um funcionário sair ou não da empresa. Como se trata de um dataset desbalanceado, uma série de métodos para lidar com esse tipo de problema foi usado, incluindo o uso de modelos que suportam técnicas para lidar com desbalanceamento de dados, tuning de hiper-parâmetros, e uso de oversampling.
 
-![]https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png
+![](https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png)
 
 # HR-Analytics-Prediction - EN
 This portfolio project uses a dataset available from IBM to analyze which employees have a higher probability to get out of the company (this problem is more commonly known as churn ratio / employee turnover). The phenomenon of employee attrition is a gradual, but deliberate reduction in the number of employees in a company or business, without a proper demise process. This create a costly process for the replacement of employees, new costs with professional training and the possibility of losing talented and trained employees.
