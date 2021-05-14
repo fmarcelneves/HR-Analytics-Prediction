@@ -9,9 +9,12 @@ Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um
 ![](https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png)
 
 # HR-Analytics-Prediction - EN
-Exploratory and predictive analysis of an IBM dataset on employee turnover. An article about this project is available in no Medium: https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf
+Exploratory and predictive analysis of an IBM dataset on employee turnover. An article about this project is available in no Medium: https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf (only in portuguese for now)
 
 This portfolio project uses a dataset available from IBM to analyze which employees have a higher probability to get out of the company (this problem is more commonly known as churn ratio / employee turnover). The phenomenon of employee attrition is a gradual, but deliberate reduction in the number of employees in a company or business, without a proper demise process. This create a costly process for the replacement of employees, new costs with professional training and the possibility of losing talented and trained employees.
 
 Firstly, I made an extensive exploratory analysis of data. After that, a machine learning model was selected (neural network) among several others to forecast employee attrition (using Scikit-learn and Keras), which could assist in the creation of risk categories based on the probability of an employee to leave or not the company . Since it is an unbalanced dataset, a series of methods to deal with this type of problem was used, including the use of models which support techniques to deal with data imbalance, hyper-parameter tuning, and the use of oversampling.
+
+
+![](https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png)
 
