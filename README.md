@@ -5,6 +5,7 @@ Um artigo completo sobre este projeto está disponível no Medium:  https://fmar
 Neste projeto utilizei um dataset disponível da IBM para analisar quais empregados teriam a maior probabilidade de sair da empresa (este problema é mais comumente conhecido como churn ratio/employee turnover). O fenômeno de employee attrition, é uma gradual, mas deliberada redução no número de empregados em uma companhia ou negócio, sem processo de demissão. Isto gera um processo custoso para substituição de funcionários, novos custos com treinamento e possibilidade de perca de funcionários talentosos e treinados.
 
 **Metodologia**
+</b>
 Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um modelo de machine learning foi selecionado (rede neural) dentre vários para prever employee attrition (utilizando o Scikit-learn e o Keras), o qual poderá auxiliar na criação de categorias de risco com base na probabilidade de um funcionário sair ou não da empresa. Como se trata de um dataset desbalanceado, uma série de métodos para lidar com esse tipo de problema foi usado, incluindo o uso de modelos que suportam técnicas para lidar com desbalanceamento de dados, tuning de hiper-parâmetros, e uso de oversampling.
 
 <img src="https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png" width="540" height="480">
