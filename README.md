@@ -10,7 +10,8 @@ Neste projeto utilizei um dataset disponível da IBM para analisar quais emprega
 Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um modelo de machine learning foi selecionado (rede neural) dentre vários para prever employee attrition (utilizando o Scikit-learn e o Keras), o qual poderá auxiliar na criação de categorias de risco com base na probabilidade de um funcionário sair ou não da empresa. Como se trata de um dataset desbalanceado, uma série de métodos para lidar com esse tipo de problema foi usado, incluindo o uso de modelos que suportam técnicas para lidar com desbalanceamento de dados, tuning de hiper-parâmetros, e uso de oversampling.
 
 <img src="https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png" width="540" height="480">
-Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
+<br /> 
+Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
 
 # HR-Analytics-Prediction - EN
 ### Exploratory and predictive analysis of an IBM dataset on employee turnover. 
@@ -24,4 +25,5 @@ This portfolio project uses a dataset available from IBM to analyze which employ
 Firstly, I made an extensive exploratory analysis of data. After that, a machine learning model was selected (neural network) among several others to forecast employee attrition (using Scikit-learn and Keras), which could assist in the creation of risk categories based on the probability of an employee to leave or not the company . Since it is an unbalanced dataset, a series of methods to deal with this type of problem was used, including the use of models which support techniques to deal with data imbalance, hyper-parameter tuning, and the use of oversampling.
 
 <img src="https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png" width="540" height="480">
-Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
+<br /> 
+Example figure: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
