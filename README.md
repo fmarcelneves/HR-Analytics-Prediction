@@ -16,7 +16,7 @@ Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste. entre
 # HR-Analytics-Prediction - EN
 ### Exploratory and predictive analysis of an IBM dataset on employee turnover. 
 
-A full article about this project is available in no Medium: https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf (only in portuguese for now)
+A full article about this project is available in [Medium](https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf) (only in portuguese for now)
 
 This portfolio project uses a dataset available from IBM to analyze which employees have a higher probability to get out of the company (this problem is more commonly known as churn ratio / employee turnover). The phenomenon of employee attrition is a gradual, but deliberate reduction in the number of employees in a company or business, without a proper demise process. This create a costly process for the replacement of employees, new costs with professional training and the possibility of losing talented and trained employees.
 
