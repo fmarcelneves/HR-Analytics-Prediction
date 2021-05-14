@@ -1,7 +1,7 @@
 # HR-Analytics-Prediction - PT
 ### Análise exploratória e preditiva de um dataset da IBM sobre rotatividade de funcionários.
 
-Um artigo completo sobre este projeto está disponível no Medium:  https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf
+Um artigo completo sobre este projeto está disponível no [Medium](https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf)
 
 Neste projeto utilizei um dataset disponível da IBM para analisar quais empregados teriam a maior probabilidade de sair da empresa (este problema é mais comumente conhecido como churn ratio/employee turnover). O fenômeno de employee attrition, é uma gradual, mas deliberada redução no número de empregados em uma companhia ou negócio, sem processo de demissão. Isto gera um processo custoso para substituição de funcionários, novos custos com treinamento e possibilidade de perca de funcionários talentosos e treinados.
 
