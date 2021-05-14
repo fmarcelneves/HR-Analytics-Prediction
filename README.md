@@ -9,11 +9,9 @@ Neste projeto utilizei um dataset disponível da IBM para analisar quais emprega
 <br /> 
 Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um modelo de machine learning foi selecionado (rede neural) dentre vários para prever employee attrition (utilizando o Scikit-learn e o Keras), o qual poderá auxiliar na criação de categorias de risco com base na probabilidade de um funcionário sair ou não da empresa. Como se trata de um dataset desbalanceado, uma série de métodos para lidar com esse tipo de problema foi usado, incluindo o uso de modelos que suportam técnicas para lidar com desbalanceamento de dados, tuning de hiper-parâmetros, e uso de oversampling.
 
-<figure>
  <img src="https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png" width="540" height="480">
- <figcaption> Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
-</figure>
-
+![Legenda] Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
+  
 # HR-Analytics-Prediction - EN
 ### Exploratory and predictive analysis of an IBM dataset on employee turnover. 
 
