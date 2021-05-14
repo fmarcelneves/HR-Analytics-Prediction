@@ -11,7 +11,7 @@ Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um
 
 <img src="https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png" width="540" height="480">
 <br /> 
-Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
+ <figcaption> Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)</figcaption>
 
 # HR-Analytics-Prediction - EN
 ### Exploratory and predictive analysis of an IBM dataset on employee turnover. 
