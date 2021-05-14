@@ -26,5 +26,4 @@ This portfolio project uses a dataset available from IBM to analyze which employ
 Firstly, I made an extensive exploratory analysis of data. After that, a machine learning model was selected (neural network) among several others to forecast employee attrition (using Scikit-learn and Keras), which could assist in the creation of risk categories based on the probability of an employee to leave or not the company . Since it is an unbalanced dataset, a series of methods to deal with this type of problem was used, including the use of models which support techniques to deal with data imbalance, hyper-parameter tuning, and the use of oversampling.
 
 <img src="https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png" width="540" height="480">
-<br /> 
 Example figure: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
