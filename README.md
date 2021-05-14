@@ -11,7 +11,7 @@ Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um
 
 <figure>
   <img src="https://miro.medium.com/max/766/1*-v4fo2Kq8ntIkOWaNzgpzA.png" width="540" height="480">
-  <figcaption>Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0).           </figcaption>
+  <figcaption>Figura de exemplo: Probabilidade de atrittion para o subconjunto de teste, entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0).           </figcaption>
 </figure>
   
 # HR-Analytics-Prediction - EN
