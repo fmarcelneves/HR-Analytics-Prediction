@@ -1,6 +1,6 @@
 # HR-Analytics-Prediction - PT
 Análise exploratória e preditiva de um dataset da IBM sobre rotatividade de funcionários.
-Um artigo sobre este projeto está disponível no Medium:  https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf
+Um artigo completo sobre este projeto está disponível no Medium:  https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf
 
 Neste projeto de portfólio de ciência de dados utilizei um dataset disponível da IBM para analisar quais empregados teriam a maior probabilidade de sair da empresa (este problema é mais comumente conhecido como churn ratio/employee turnover). O fenômeno de employee attrition, é uma gradual, mas deliberada redução no número de empregados em uma companhia ou negócio, sem processo de demissão. Isto gera um processo custoso para substituição de funcionários, novos custos com treinamento e possibilidade de perca de funcionários talentosos e treinados.
 
@@ -11,7 +11,7 @@ Primeiramente foquei em uma extensa análise exploratória de dados. Por fim, um
 Probabilidade de atrittion para o subconjunto de teste. entre pessoas que saíram (Attrition=1) e permaneceram na empresa (Attrition=0)
 
 # HR-Analytics-Prediction - EN
-Exploratory and predictive analysis of an IBM dataset on employee turnover. An article about this project is available in no Medium: https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf (only in portuguese for now)
+Exploratory and predictive analysis of an IBM dataset on employee turnover. A full article about this project is available in no Medium: https://fmarcelneves.medium.com/rh-analytics-e-machine-learning-e584635d7d87?source=friends_link&sk=7720272d4edf972c1131d51c18a457cf (only in portuguese for now)
 
 This portfolio project uses a dataset available from IBM to analyze which employees have a higher probability to get out of the company (this problem is more commonly known as churn ratio / employee turnover). The phenomenon of employee attrition is a gradual, but deliberate reduction in the number of employees in a company or business, without a proper demise process. This create a costly process for the replacement of employees, new costs with professional training and the possibility of losing talented and trained employees.
 
